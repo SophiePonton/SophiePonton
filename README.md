@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is **Sophie**, a passionate Computer Science student with a strong interest in **Cybersecurity**.
+My name is **Sophie**, a passionate Computer and Systems Sciences student with a strong interest in **Cybersecurity**.
 
 Studying Digital Design in high school led me to pursue a degree in UX design. However, I’ve always been drawn to technology and problem-solving, which lead to my discovery of Cybersecurity! For me, Cybersecurity is the perfect combination of creativity and analytical thinking, two things that have always been part of me.
 
